@@ -1,0 +1,41 @@
+table,th,td{
+	border: 1px solid black;
+	border-collapse: collapse;
+	text-align:center;
+
+}
+th,td{
+	padding: 6px;
+}
+
+.empty{
+	padding: 10px;
+}
+
+.soft{
+	background-color: orangered;
+}
+.web{
+	background-color: yellow;
+}
+.eng{
+	background-color: skyblue;
+}
+.img{
+	background-color: lightgreen;
+}
+.com{
+	background-color: purple;
+}
+.java{
+	background-color: gold;
+}
+.rts{
+	background-color: hotpink;
+}
+.small{
+	padding: 1px;
+}
+.small{
+	width: 100%;
+}
